@@ -1,3 +1,4 @@
 .vs
+LabProject*/x64
 LabProjects.sln
-X64
+x64
